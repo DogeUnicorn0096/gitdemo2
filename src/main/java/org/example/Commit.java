@@ -9,6 +9,8 @@ package org.example;
 public class Commit {
     String c4;
     String c5;
+    String c6;
+    String c8;
     String c7;
     String c9;
 }
